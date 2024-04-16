@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: grey;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white; 
+}
+
+#myButton {
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    margin-bottom: 3%;
+}
+
+#myLabel {
+    font-size: 3em;
+}
